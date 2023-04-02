@@ -1,8 +1,7 @@
 {
+ "start_url": "index.htm",
  "display": "fullscreen",
- "theme_color": "#FFFFFF",
  "name": "Suave Refugio Tandil",
- "background_color": "#FFFFFF",
  "icons": [
   {
    "type": "image/png",
@@ -40,5 +39,6 @@
    "src": "misc/icon64.png"
   }
  ],
- "start_url": "index.htm"
+ "theme_color": "#FFFFFF",
+ "background_color": "#FFFFFF"
 }
